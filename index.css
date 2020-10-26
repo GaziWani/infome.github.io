@@ -166,6 +166,6 @@
 }/***********media query************************/
 @media only screen and (max-width: 600px) {
   .pricing-div{
-	  padding-top:10px;
+	  padding-bottom:20px;
 }
 
