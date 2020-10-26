@@ -164,7 +164,11 @@
 .offer{
 	 background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
 }/***********media query************************/
-@media only screen and (max-width: 600px) {
+@media  (max-width: 600px) {
+	*{
+		padding:0;
+		margin:0;
+	}
   .pricing-div{
 	  margin-bottom:30px;
 }
